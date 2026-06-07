@@ -1,0 +1,1 @@
+{"name":"Renato's English","short_name":"REnglish","start_url":"/","display":"standalone","background_color":"#080c14","theme_color":"#3b82f6","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
